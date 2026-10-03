@@ -1,0 +1,3 @@
+C:/Project/project_level_2_25022967_NguyenVietBaoNguyen/project_level_2_25022967_NguyenVietBaoNguyen/build/CMakeFiles/game.dir
+C:/Project/project_level_2_25022967_NguyenVietBaoNguyen/project_level_2_25022967_NguyenVietBaoNguyen/build/CMakeFiles/edit_cache.dir
+C:/Project/project_level_2_25022967_NguyenVietBaoNguyen/project_level_2_25022967_NguyenVietBaoNguyen/build/CMakeFiles/rebuild_cache.dir

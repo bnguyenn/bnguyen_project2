@@ -1,0 +1,20 @@
+Tic-tac-toe Game (Version: 0.4.25022967 by baluong.87)
+------------------------------------------------
+[INFO] - [2026-05-17 21:51:07] Logger initialized!
+[INFO] - [2026-05-17 21:51:07] Terminal Renderer initialized!
+[INFO] - [2026-05-17 21:51:07] Terminal Interaction initialized!
+[INFO] - [2026-05-17 21:51:07] Infra initialized!
+[INFO] - [2026-05-17 21:51:07] Engine initializing . . .
+[INFO] - [2026-05-17 21:51:07] Engine initialized!
+[INFO] - [2026-05-17 21:51:07] [Engine] Starting game . . .
+[INFO] - [2026-05-17 21:51:14] Board initialized!
+[INFO] - [2026-05-17 21:51:14] [Engine] Game started!
+[INFO] - [2026-05-17 21:51:14] [Engine] Playing game . . .
+[INFO] - [2026-05-17 21:51:24] [Engine] Game done!
+[INFO] - [2026-05-17 21:51:24] [Engine] Ending game . . .
+[INFO] - [2026-05-17 21:51:45] [Engine] Game ended!
+[INFO] - [2026-05-17 21:51:45] Engine closing . . .
+[INFO] - [2026-05-17 21:51:45] Engine closed!
+[INFO] - [2026-05-17 21:51:45] Engine destroyed!
+[INFO] - [2026-05-17 21:51:45] Infra destroyed!
+[INFO] - [2026-05-17 21:51:45] Logger closing . . .
